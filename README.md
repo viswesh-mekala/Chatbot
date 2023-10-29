@@ -1,4 +1,4 @@
-# Chatbot
+# Chatbot for coal mine industry
 
 A chatbot designed for the coal mining industry is a specialized artificial intelligence (AI) application that responds to messages and inquiries related to various aspects of coal mining. Such a chatbot can be a valuable tool for miners, industry professionals, and stakeholders by providing information, assistance, and support in real-time. Here's a description of a coal mine industry AI chatbot and its key features:
 
